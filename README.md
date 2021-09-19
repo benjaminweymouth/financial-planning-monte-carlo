@@ -1,4 +1,4 @@
-# financial-planning-monte-carlo
+# Financial Planning 
 
  
 This repository includes a Jupyter notebook and other files for the Financial Planning exercises.
